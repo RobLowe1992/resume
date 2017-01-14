@@ -1,0 +1,82 @@
+var education = {
+    "schools": [{
+        "name": "Bowie State University",
+        "city": "Bowie",
+        "majors": ["Biology"],
+        "dates": 2012-2014,
+        "url": "www.umd.edu"
+    }, {
+        "name": "University of Maryland",
+        "city": "College Park",
+        "majors": ["Anthropology"],
+        "dates": 2014-2016,
+        "url": "www.bowiestate.edu"
+    }],
+    "onlineCourses": [{
+        "title": "Intro to HTML and CSS",
+        "school": "Udacity",
+        "date": "2016",
+        "url": "https://classroom.udacity.com/courses/ud304/lessons/2617868617/concepts/27713785570923"
+    }, {
+        "title": "Programming Foundations with Python",
+        "school": "Udacity",
+        "date": "2016",
+        "url": "https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/10079185740923"
+    }, {
+        "title": "Javascript Basics",
+        "school": "Udacity",
+        "date": "2016",
+        "url": "https://classroom.udacity.com/courses/ud804/lessons/1946788554/concepts/25505685350923#"
+    }, {
+        "title": "Intro to HTML and CSS",
+        "school": "Udacity",
+        "date": "2016",
+        "url": "https://classroom.udacity.com/courses/ud304/lessons/2617868617/concepts/27713785570923"
+    }
+    ]
+};
+
+var work = {
+    "jobs": [{
+        "employer": "Lyft",
+        "title": "Driver",
+        "location": "Washington, D.C.",
+        "dates": "2015-Present",
+        "description": "I am responible for picking up passengers and taking them to their desired destination"
+    }, {
+        "employer": "Uber",
+        "title": "Driver",
+        "location": "Washington, D.C.",
+        "dates": "2015-Present",
+        "description": "I am responible for picking up passengers and taking them to their desired destination"
+    }, {
+        "employer": "Farmers Fishers Bakers",
+        "title": "Bartender and Waiter",
+        "location": "Washington, D.C.",
+        "dates": "2012-2014",
+        "description": "I am responible for taking care  of the bar and its customers. Duties also include preparing all mixes, juices, syrups, beers, craft cocktails and stocking the inventory."
+    }]
+};
+
+var bio = {
+    "name": "Robert Lowe",
+    "role": "Front-End Web Developer",
+    "welcomeMessage": "Meet the REAL Rob Lowe, Front-end Ninja",
+    "biopic": "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10350549_728340933854577_7463950567996203221_n.jpg?oh=01181c1864170a03ac842aacc6ccd5f5&oe=5923F543",
+    "contacts": {
+        "mobile": 301-213-1125,
+        "email": "RobLowe1992@yahoo.com",
+        "github": "RobLowe1992",
+        "location": "Washington, D.C."
+    },
+    "skills": ["HTML5", "CSS3", "Javascript", "JSON", "Basic Photoshop", "Bootstrap", "Github"]
+};
+
+var projects = {
+    "projects": [{
+        "title": "Portfolio",
+        "dates": "Periodically Updated",
+        "description": "My own portfolio site displaying all of the projects I have completed.",
+        "images": "#"
+    }]
+}
